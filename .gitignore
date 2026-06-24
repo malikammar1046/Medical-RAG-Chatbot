@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+
+.venv/
+__pycache__/
+*.py[cod]
+
+uploaded_docs/
+vectorstore/
+data/*
+!data/.gitkeep
+
+.DS_Store
+Thumbs.db
