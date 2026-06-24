@@ -126,7 +126,7 @@ Add screenshots to a `screenshots/` folder and update these paths if needed.
 
 ### Main Chat Interface
 
-![Main chat interface](screenshots/1.png)
+![Main chat interface](screenshots/HOME.png)
 
 ### ASK QUERY
 
