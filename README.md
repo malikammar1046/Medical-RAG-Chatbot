@@ -126,15 +126,15 @@ Add screenshots to a `screenshots/` folder and update these paths if needed.
 
 ### Main Chat Interface
 
-![Main chat interface](screenshots/main-chat.png)
+![Main chat interface](screenshots/1.png)
 
-### PDF Upload Flow
+### ASK QUERY
 
-![PDF upload flow](screenshots/pdf-upload.png)
+![AsK Question](screenshots/2.png)
 
 ### Answer With Sources
 
-![Answer with sources](screenshots/answer-sources.png)
+![Answer with sources](screenshots/3.png)
 
 ## Project Structure
 
